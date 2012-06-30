@@ -1,13 +1,20 @@
 Python API for Notifout.com
 ===========================
 
+What is Notifout.com
+--------------------
+Notifout.com is an online service which helps your application have nice-looking and reliable email notifications.
+
+See `notifout.com <http://notifout.com/>`_ for details.
+
+
 Installation
 ------------
 
 ::
 
     pip install notifout
-    
+
 
 Usage
 -----
