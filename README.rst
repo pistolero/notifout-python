@@ -1,4 +1,13 @@
 Python API for Notifout.com
+===========================
+
+Installation
+------------
+
+::
+
+    pip install notifout
+    
 
 Usage
 -----
