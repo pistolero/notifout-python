@@ -1,6 +1,5 @@
-from distutils.extension import Extension
-from setuptools import setup, Extension
-from Cython.Distutils import build_ext
+from setuptools import setup
+
 
 import os.path
 here = os.path.dirname(os.path.abspath(__file__))
@@ -14,7 +13,7 @@ setup(
   url='https://github.com/pistolero/notifout-python', 
   install_requires=['simplejson'],
   license="Apache License 2.0",   
-  keywords="sass scss libsass",  
-  description='Python bindings for libsass',
+  keywords="python notifout",
+  description='Python API for Notifout.com',
   long_description=open(os.path.join(here, 'README.rst')).read().decode('utf-8')    
 )
