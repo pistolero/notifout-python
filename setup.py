@@ -7,7 +7,7 @@ here = os.path.dirname(os.path.abspath(__file__))
 
 setup(
   name = 'notifout',
-  version = '1.0',
+  version = '1.1',
   author = 'Sergey Kirilov',
   author_email = 'sergey.kirillov@gmail.com',
   url='https://github.com/pistolero/notifout-python', 
